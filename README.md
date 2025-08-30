@@ -18,7 +18,17 @@ O usuário informa seus dados e o programa calcula automaticamente se há direit
 
 3. Pede o valor da compra atual.  
 4. Calcula o **valor final** considerando o desconto (quando aplicável).  
-5. Exibe um **resumo detalhado** da transação.  
+5. Exibe um **resumo detalhado** da transação.
+
+**🔧 Tecnologias Utilizadas**
+
+Linguagem C
+
+Estruturas (struct)
+
+Entrada e saída padrão (scanf, printf)
+
+Condicionais (if-else)
 
 ---
 
@@ -61,12 +71,3 @@ totalGasto > 500 → 10% OFF 🎉
 
 totalGasto <= 500 → Sem desconto (mas agradecemos a preferência 🙏).
 
-**🔧 Tecnologias Utilizadas**
-
-Linguagem C
-
-Estruturas (struct)
-
-Entrada e saída padrão (scanf, printf)
-
-Condicionais (if-else)
